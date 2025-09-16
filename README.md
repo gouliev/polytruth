@@ -1,6 +1,6 @@
 # PolyTruth: Multilingual Disinformation Detection Corpus
 
-PolyTruth is a multilingual dataset for **disinformation detection** built from verified fact-checks and aligned corrective statements. It pairs **false claims** with **true statements** across **25+ languages**, designed for training and evaluating transformer-based language models on multilingual and cross-lingual disinformation classification.
+PolyTruth is a multilingual dataset for **disinformation detection** built from verified fact-checks and aligned corrective statements. It pairs **false claims** with **true statements** across **25+ languages**, designed for training and evaluating transformer-based language models on multilingual and cross-lingual disinformation classification. A preprint of the paper can be found on Arvix.org https://arxiv.org/abs/2509.10737. 
 
 ⸻
 
@@ -59,6 +59,4 @@ If you use PolyTruth, please cite:
   year      = {2025},
   publisher = {Springer},
   address   = {Porto, Portugal},
-  month     = sep,
-  pages     = {TBC - 19th September}
 }
